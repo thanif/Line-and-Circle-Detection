@@ -4,6 +4,8 @@ Implementation of Hough Transform to detect line and circle in an image.
 
 Demo: https://www.youtube.com/watch?v=AQy5S933Scg&t=32s
 
+Article: https://thanifbutt.medium.com/hough-transform-c62ab4a39bdd
+
 # Functions
 ## gaussian_blur
 It returns a gaussian kernel of a given size and variance.
