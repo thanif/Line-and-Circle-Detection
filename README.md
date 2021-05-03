@@ -32,6 +32,6 @@ It performs circle detection as follows:
 2. In order to select which circles are good enough, use two criteria: a threshold (here, at least 40% of the pixels of a circle must be detected) and exclude circles that are too close of each other (here, once a circle has been selected, reject all the circles whose center is inside that circle).
 
 ## Line Detection
-![alt text](line_montage.png)
+![alt text](lines_montage.png)
 ## Circle Detetction
-![alt text](circle_montage.png)
+![alt text](circles_montage.png)
