@@ -30,3 +30,8 @@ It performs line detection as follows:
 It performs circle detection as follows:
 1. Using the edges given by the Canny edge detector and for each possible circle, count the number of edges that are part of each circle. However, instead of iterating over all the pixels of all circles, it is faster to iterate over the coordinates of each strong edge and compute the coordinates of the center of all the circles that pass by that point.
 2. In order to select which circles are good enough, use two criteria: a threshold (here, at least 40% of the pixels of a circle must be detected) and exclude circles that are too close of each other (here, once a circle has been selected, reject all the circles whose center is inside that circle).
+
+## Line Detection
+![alt text](line_montage.png)
+## Circle Detetction
+![alt text](circle_montage.png)
