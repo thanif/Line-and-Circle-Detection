@@ -38,5 +38,5 @@ It performs circle detection as follows:
 
 ## Line Detection
 ![alt text](lines_montage.png)
-## Circle Detetction
+## Circle Detection
 ![alt text](circles_montage.png)
