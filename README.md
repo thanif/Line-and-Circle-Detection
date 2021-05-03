@@ -1,7 +1,7 @@
 # Line-and-Circle-Detection
 
 Implementation of Hough Transform to detect line and circle in an image.
-
+# Functions
 ## gaussian_blur
 It returns a gaussian kernel of a given size and variance.
 ## gradient_calculation
